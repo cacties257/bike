@@ -1,3 +1,4 @@
+streamlit==1.25.0
+matplotlib>=3.4.0
+numpy
 pandas
-matplotlib
-pip==24.3.1
